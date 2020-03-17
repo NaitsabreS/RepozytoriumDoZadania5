@@ -1,1 +1,2 @@
 Zmienianie pliku branch-1-test.txt
+Zmienianie pliku branch-1-test.txt na potrzeby zadania 9 - branch-conflict-2.
