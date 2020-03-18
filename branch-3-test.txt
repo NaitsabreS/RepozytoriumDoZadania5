@@ -1,1 +1,2 @@
 Changes in file branch-3-test.txt - exercise 10.
+Another change "boring" (branch demo commit 1)
